@@ -1,6 +1,6 @@
 # Food_recipe_ui
 
-Porjeto de UI para restaurantes.
+Porjeto de UI para receitas.
 
 
 Project by:  
