@@ -3,7 +3,7 @@
 Porjeto de UI para receitas.
 
 
-Project by:  
+Desing by:  
 https://dribbble.com/shots/5137623-Food-App-Homepage-Concept/attachments/1133457
 
 
